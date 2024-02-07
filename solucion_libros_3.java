@@ -10,7 +10,7 @@ public class SimpleXMLParser {
             // Cargar y parsear el archivo XML
             DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
             DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
-            Document doc = dBuilder.parse("C:\\\\Users\\\\ignac\\\\Desktop\\\\libros.xml");
+            Document doc = dBuilder.parse("C:\\Users\\ignac\\Desktop\\libros.xml");
 
             // Normalizar el documento XML
             doc.getDocumentElement().normalize();
