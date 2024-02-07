@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tienda>
+    <libro>
+        <titulo>El Señor de los Anillos</titulo>
+        <autor>J.R.R. Tolkien</autor>
+        <precio>22.90</precio>
+    </libro>
+    <libro>
+        <titulo>Harry Potter y la piedra filosofal</titulo>
+        <autor>J.K. Rowling</autor>
+        <precio>18.50</precio>
+    </libro>
+    <libro>
+        <titulo>Fundación</titulo>
+        <autor>Isaac Asimov</autor>
+        <precio>15.20</precio>
+    </libro>
+    <libro>
+        <titulo>El Nombre del Viento</titulo>
+        <autor>Patrick Rothfuss</autor>
+        <precio>20.00</precio>
+    </libro>
+    <libro>
+        <titulo>Crónicas del asesino de reyes: Segundo día</titulo>
+        <autores>
+            <autor>Patrick Rothfuss</autor>
+            <autor>Traductor Español</autor>
+        </autores>
+        <precio>22.00</precio>
+    </libro>
+</tienda>
