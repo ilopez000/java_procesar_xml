@@ -5,7 +5,7 @@ import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
-public class ParserPersona {
+public class ParserPersonas {
 
     public static void main(String[] args) {
         try {
