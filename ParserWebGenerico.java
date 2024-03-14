@@ -14,6 +14,7 @@ public class Main {
     public static void main(String[] args) throws IOException {
                 try {
                     Scanner entrada = new Scanner(System.in);
+                    //https://www.elpais.com
                     System.out.println("Introduce la url de la web");
                     String web = entrada.nextLine();
                     System.out.println("Introduce el tag que deseas buscar");
