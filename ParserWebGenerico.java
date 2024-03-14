@@ -1,8 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
 
-package com.mycompany.mavenproject4;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -12,11 +8,8 @@ import java.util.Scanner;
 import javax.lang.model.util.Elements;
 import javax.swing.text.Document;
 import org.jsoup.Jsoup;
-/**
- *
- * @author ignac
- */
-public class Mavenproject4 {
+
+public class Main {
 
     public static void main(String[] args) throws IOException {
                 try {
